@@ -1,0 +1,31 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.pdb
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\TP-02\Entidades\obj\Debug\Entidades.dll
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\TP-02\Entidades\obj\Debug\Entidades.pdb
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\TP-02\Entidades\bin\Debug\Entidades.dll
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\TP-02\Entidades\bin\Debug\Entidades.pdb
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Trabajos Practicos\Jakubek.Gabriel.2A.TP02\Entidades\bin\Debug\Entidades.dll
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Trabajos Practicos\Jakubek.Gabriel.2A.TP02\Entidades\bin\Debug\Entidades.pdb
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Trabajos Practicos\Jakubek.Gabriel.2A.TP02\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Trabajos Practicos\Jakubek.Gabriel.2A.TP02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Trabajos Practicos\Jakubek.Gabriel.2A.TP02\Entidades\obj\Debug\Entidades.dll
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Trabajos Practicos\Jakubek.Gabriel.2A.TP02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\elmolelaptop\Desktop\github utn\tp_laboratorio_2\tp n2\Entidades\bin\Debug\Entidades.dll
+C:\Users\elmolelaptop\Desktop\github utn\tp_laboratorio_2\tp n2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\elmolelaptop\Desktop\github utn\tp_laboratorio_2\tp n2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\elmolelaptop\Desktop\github utn\tp_laboratorio_2\tp n2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\elmolelaptop\Desktop\github utn\tp_laboratorio_2\tp n2\Entidades\obj\Debug\Entidades.dll
+C:\Users\elmolelaptop\Desktop\github utn\tp_laboratorio_2\tp n2\Entidades\obj\Debug\Entidades.pdb
